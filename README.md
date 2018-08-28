@@ -18,15 +18,15 @@ Modpacks for **1.13** will begin developement as soon as most of the major mods 
 
 ### List of 1.12.2 modpacks:
 
-| Name | Description | Version | Date
-| ------------------ |
-| DummyName | Hello World | 1.0.0 | 2018-01-01
+| Name | Description | Version | Date |
+| -----| ----------- | ------- | ---- |
+| DummyName | Hello World | 1.0.0 | 2018-01-01 |
 
 ### List of other modpacks
 
-| Minecraft version | Name | Description | Version | Date
-| ------------------ |
-| 1.6.4 | DummyName | Hello World | 1.0.0 | 2018-01-01
+| Minecraft version | Name | Description | Version | Date |
+| ----------------- | ---- | ----------- | ------- | ---- |
+| 1.6.4 | DummyName | Hello World | 1.0.0 | 2018-01-01 |
 
 ## Installation guide
 
