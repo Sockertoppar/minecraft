@@ -1,5 +1,15 @@
 # Sockertoppar Minecraft
 
+- [Sockertoppar Minecraft](#sockertoppar-minecraft)
+  * [Information](#information)
+  * [Modpacks](#modpacks)
+    + [List of 1.7.10 modpacks:](#list-of-1710-modpacks-)
+    + [List of 1.12.2 modpacks:](#list-of-1122-modpacks-)
+    + [List of other modpacks](#list-of-other-modpacks)
+  * [Installation guide](#installation-guide)
+    + [Twitch Launcher](#twitch-launcher)
+  * [Contact](#contact)
+
 ## Information
 
 This repository will contain all information regarding the modpacks used in the community Sockertoppar.
