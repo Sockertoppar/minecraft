@@ -1,6 +1,9 @@
 # Sockertoppar Minecraft
 
+## Table of Content
+
 - [Sockertoppar Minecraft](#sockertoppar-minecraft)
+  * [Table of Content](#table-of-content)
   * [Information](#information)
   * [Modpacks](#modpacks)
     + [List of 1.7.10 modpacks:](#list-of-1710-modpacks-)
