@@ -43,7 +43,9 @@ Modpacks for **1.13** will begin developement as soon as most of the major mods 
 
 ## Installation guide
 
-To install modpacks, you can use several launchers. The easiest one to use is [Twitch Launcher](https://app.twitch.tv/download), but other launchers such as [MultiMC](https://multimc.org/#Download) work just fine.
+To install modpacks, you can use several launchers. The easiest one to use is <a href="https://app.twitch.tv/download" target="_blank">Twitch Launcher</a>\*, but other launchers such as <a href="https://multimc.org/" target="_blank">MultiMC</a>\* work just fine.
+
+*\* = External links*
 
 ### Twitch Launcher
 
