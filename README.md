@@ -25,21 +25,21 @@ Modpacks for **1.13** will begin developement as soon as most of the major mods 
 
 ### List of 1.7.10 modpacks:
 
-| Name | Description | Version | Date |
-| -----| ----------- | ------- | ---- |
-| DummyName | Hello World | 1.0.0 | 2018-01-01 |
+| Name | Description | Version | Date | Stable | All |
+| -----| ----------- | ------- | ---- | :----: | :-: |
+| DummyName | Hello World | 1.0.0 | 2018-01-01 | [1.0.0](#) | [Releases](#)
 
 ### List of 1.12.2 modpacks:
 
-| Name | Description | Version | Date |
-| -----| ----------- | ------- | ---- |
-| DummyName | Hello World | 1.0.0 | 2018-01-01 |
+| Name | Description | Version | Date | Stable | All |
+| -----| ----------- | ------- | ---- | :----: | :-: |
+| Skyblock - Aurora Version | My own take on Skyblock | 1.0.0 | 2018-08-29 | [1.0.0](https://1drv.ms/u/s!Amq7FpDvPImOsD3rspkcDSrwwobh) | [Releases](https://1drv.ms/f/s!Amq7FpDvPImOsDwZ0-C8UQret7uX) |
 
 ### List of other modpacks
 
-| Minecraft version | Name | Description | Version | Date |
-| ----------------- | ---- | ----------- | ------- | ---- |
-| 1.6.4 | DummyName | Hello World | 1.0.0 | 2018-01-01 |
+| Minecraft version | Name | Description | Version | Date | Stable | All |
+| ----------------- | ---- | ----------- | ------- | ---- | :----: | :-: |
+| 1.6.4 | DummyName | Hello World | 1.0.0 | 2018-01-01 | [1.0.0](#) | [Releases](#)
 
 ## Installation guide
 
