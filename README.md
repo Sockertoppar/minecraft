@@ -10,6 +10,7 @@
   * [List of other modpacks](#list-of-other-modpacks)
 - [Installation guide](#installation-guide)
   * [Twitch Launcher](#twitch-launcher)
+- [Configuration files](#configuration-files)
 - [Contact](#contact)
 
 ## Information
@@ -46,9 +47,20 @@ To install modpacks, you can use several launchers. The easiest one to use is [T
 
 ### Twitch Launcher
 
-TO BE ADDED
+See more [here](guide/twitch_launcher_installation_guide.md).
+
+## Configuration files
+
+Several configuration files can be found here, in case they are needed. 
+
+| Mod | Location | Version |
+| --- | -------- | ------- |
+| InGameInfoXML | [Examle overlay](config/ingameinfoxml/InGameInfo.xml) | Any |
+| Minetweaker | [Recipes changes](config/minetweaker) | 1.7.10/1.12.2 |
 
 ## Contact
 
-Modpack Developer: [Niklas 'Aurora' Andersson](https://github.com/AuroraBTH) <br>
-Server admin: [Niklas 'Aurora' Andersson](https://github.com/AuroraBTH)
+| Roll | Contact |
+| ---- | ------- |
+| Modpack Developer | [Niklas 'Aurora' Andersson](https://github.com/AuroraBTH) |
+| Server Admin | [Niklas 'Aurora' Andersson](https://github.com/AuroraBTH) |
