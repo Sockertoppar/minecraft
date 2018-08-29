@@ -26,8 +26,9 @@ Press Install and let it run for a while.
 
 ## Step 3 - Add modpack
 
-When it's done, you'll see an large empty area with a menu at the top where you can press "Create Custom Profile". Press it and select "Import modpack".
+When it's done, you'll see a large empty area with a menu at the top where you can press "Create Custom Profile". Press it and select "Import" at the top.
 
+![Custom profile](../images/installation_guide/custom_profile.png)
 ![Import modpack](../images/installation_guide/import_modpack.png)
 
 Select the modpack .zip you've downloaded and it should begin the installation of the necessary files/mods. After this, you're good to go!
