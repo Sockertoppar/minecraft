@@ -33,7 +33,12 @@ Let people know what they can be used for.
 
 ## Buildcraft
 
-* Each pipe
+* Wooden Transport Pipe
+* Cobblestone, Stone, Quartz Transport Pipe
+* Golden Transport Pipe
+* Void Transport Pipe
+* Obsidian Transport Pipe
+* Diamond Transport Pipe
 * Redstone Engine
 
 ## Chickens & Hatchery & Roost
@@ -61,6 +66,12 @@ Let people know what they can be used for.
 ## dank/null
 
 Description of each tier
+Tier 1: 9 slots, stores 2 stacks/item (128)
+Tier 2: 18 slots, stores 4 stacks/item (256)
+Tier 3: 27 slots, stores 8 stacks/item (512)
+Tier 4: 36 slots, stores 16 stacks/item (1024)
+Tier 5: 45 slots, stores 32 stacks/item (2048)
+Tier 6: 54 slots, stores 2.14b/item
 
 ## ElevatorMod
 
@@ -80,6 +91,8 @@ Elevators
 * Angel Ring
 * Compressed Blocks
 * Dark Ineffable Glass (you can walk through, enemies can not. Does not let light through)
+* Redstone Clock
+* Ender Lilly
 
 ## Iron Chests
 
@@ -209,8 +222,3 @@ Link to http://the-betweenlands.wikia.com/wiki/How_to_Get_There
 * Blazing: Automatically smelts everything the block drops, stacks with Fortune.
 * Siphon: Items mined goes into your inventory. Works with Blazing, Silk Touch and Fortune
 * Homing: Your arrows will aim right at your target. Level 1 - 32 blocks away, Level 2 - 64 blocks away, Level 3 - 128 blocks away
-
-## Xtones
-
-* Adds tons of new blocks
-* Flat lamp
