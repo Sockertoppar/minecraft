@@ -14,7 +14,7 @@ This will allow you to add the additional mods that we are going to use.
 The following mods should be added for you to be able to connect to the server:
 
 | **Modname**                | **Version** |
-|----------------------------|---------|
+|----------------------------|-------------|
 | Agricraft                  | 2.12.0-1.12.0-a6 |
 | CompactStorage             | 3.1-12 |
 | ExtraCells2                | 1.12.2-2.6.2a |
@@ -27,9 +27,16 @@ The following mods should be added for you to be able to connect to the server:
 | StepUp                     | 1.0.2-mc1.10-1.12 |
 | Tinker's JEI               | 1.0 |
 
+## Updated the following mods
+
+| **Modname** | **Version** |
+|-------------|-------------|
+| Environmental Tech | 1.12.2-2.0.19.1 |
+| ValkyrieLib | 1.12.2-2.0.19.1 |
+
 ## Swaping configs
 
-You should also use the new configs, so that your client is synced with the ones on the server. You can download it [here](#).
+You should also use the new configs, so that your client is synced with the ones on the server. You can download it [here](https://1drv.ms/u/s!Amq7FpDvPImOsxRFCekooYPNbBdr).
 
 ## Troubleshooting
 
